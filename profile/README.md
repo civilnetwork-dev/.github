@@ -9,12 +9,13 @@
 Run by me (Quartinal) and with ascendency from [@PrestonT500](https://github.com/PrestonT500) and [@accessgames](https://github.com/accessgames), we are a team of developers that create open-source projects to elude internet suppression.
 
 
-#### Our notable projects (that we are proud of)
+#### Our notable projects (that we are proud of and will maintain for years to come)
 
 
 **[Civil](https://github.com/civilnetwork-dev/Civil)** - Easily-reproducible anonymous web proxy fueled by both pure JavaScript (coming soon) and Ultraviolet.
+**[Rammerhead443](https://github.com/civilnetwork-dev/rammerhead-443)** - An updated version of Rammerhead, making it usable and sophisticated throughout every proxy
+#### Our WIP projects (that we aren't really going to maintain into the near future)
 
-#### Our WIP projects (that we are still working on)
 
 **[That's an Error](https://github.com/civilnetwork-dev/ThatsAnError)** - A spoof of Google's non-beautiful error page
 
